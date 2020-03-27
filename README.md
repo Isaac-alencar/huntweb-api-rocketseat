@@ -15,5 +15,5 @@ An node.js rest-api
 => The ORM mongoose, for easy connection with database
 => Consider use yarn too, but if you want use npm
 
-Note: this api it's just an exemple, for a simple rest-api. Consider use this on React front end.
+Note: this api it's just an exemple, just simple rest-api. Consider use this with React on front end.
 
